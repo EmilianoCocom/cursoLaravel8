@@ -1,3 +1,3 @@
-/src/blog/composer.lock
 /src/blog/package-lock.json
-/src/blog/.env.example
+/src/blog/.env
+/src/blog/composer.json
