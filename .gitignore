@@ -1,3 +1,2 @@
 /src/blog/package-lock.json
-/src/blog/.env
-/src/blog/composer.json
+/src/blog/composer.lock
